@@ -1,4 +1,4 @@
-# 🚫 Don't Drink and Drive: A Visual Story with Python (OpenCV) 🚗  
+# Don't Drink and Drive: A Visual Story with Python and OpenCV 🚗  
 
 This repository showcases two impactful projects I created using **Python** and **OpenCV**:  
 1. **An animation video** emphasizing the critical message, "Don't Drink & Drive."  
