@@ -1,4 +1,4 @@
-# Don't Drink and Drive: A Visual Story with Python and OpenCV 🚗  
+# Don't Drink and Drive: A Visual Story with Python (OpenCV) 🚗  
 
 This repository showcases two impactful projects I created using **Python** and **OpenCV**:  
 1. **An animation video** emphasizing the critical message, "Don't Drink & Drive."  
@@ -30,7 +30,7 @@ This fun and engaging GIF captures the emotional rollercoaster of coding frustra
 
 ---
 
-## 🛠️ Technologies Used  
+## Technologies Used  
 - **Programming Language**: Python  
 - **Library**: OpenCV  
 
@@ -42,7 +42,7 @@ Key OpenCV functions include:
 
 ---
 
-## 🚀 How to Run the Projects  
+## How to Run the Projects 🚀 
 1. Clone this repository:  
    ```bash  
    git clone https://github.com/yourusername/opencv-animation-project.git  
