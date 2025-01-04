@@ -38,12 +38,4 @@ Key OpenCV functions include:
 - `cv2.line`, `cv2.circle`, `cv2.rectangle`: For creating shapes and designing scenes.  
 - `cv2.putText`: For displaying messages.  
 - `cv2.setMouseCallback`: For interactive mouse-based inputs.  
-- `cv2.imshow`, `cv2.waitKey`: For real-time frame visualization.  
-
----
-
-## How to Run the Projects 🚀 
-1. Clone this repository:  
-   ```bash  
-   git clone https://github.com/yourusername/opencv-animation-project.git  
-   cd opencv-animation-project  
+- `cv2.imshow`, `cv2.waitKey`: For real-time frame visualization.   
